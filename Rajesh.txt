@@ -1,1 +1,2 @@
 Rajesh.txt
+ Am doing my first commits and updates now through git and am very happy
